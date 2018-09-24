@@ -5,8 +5,7 @@ end
 
 def actor
   actor_hash = {
-    first_name: "Leonardo",
-    last_name: "DiCaprio"
+    name: "Dwayne The Rock Johnson",
   }
 end
 
